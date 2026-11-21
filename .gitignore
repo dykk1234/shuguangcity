@@ -1,0 +1,5 @@
+out/
+.edge*/
+compiled-*.js
+node_modules/
+*.tmp
